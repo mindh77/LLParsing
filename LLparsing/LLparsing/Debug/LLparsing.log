@@ -1,0 +1,22 @@
+﻿  LL.c
+c:\users\ku254\onedrive\문서\visual studio 2017\projects\llparsing\llparsing\ll.c(116): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\ku254\onedrive\문서\visual studio 2017\projects\llparsing\llparsing\ll.c(121): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\ku254\onedrive\문서\visual studio 2017\projects\llparsing\llparsing\ll.c(131): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\ku254\onedrive\문서\visual studio 2017\projects\llparsing\llparsing\ll.c(135): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\ku254\onedrive\문서\visual studio 2017\projects\llparsing\llparsing\ll.c(143): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\ku254\onedrive\문서\visual studio 2017\projects\llparsing\llparsing\ll.c(113): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+c:\users\ku254\onedrive\문서\visual studio 2017\projects\llparsing\llparsing\ll.c(250): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\ku254\onedrive\문서\visual studio 2017\projects\llparsing\llparsing\ll.c(267): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\ku254\onedrive\문서\visual studio 2017\projects\llparsing\llparsing\ll.c(279): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\ku254\onedrive\문서\visual studio 2017\projects\llparsing\llparsing\ll.c(245): warning C4101: 'clnchk' :참조되지 않은 지역 변수입니다.
+c:\users\ku254\onedrive\문서\visual studio 2017\projects\llparsing\llparsing\ll.c(353): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\ku254\onedrive\문서\visual studio 2017\projects\llparsing\llparsing\ll.c(365): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\ku254\onedrive\문서\visual studio 2017\projects\llparsing\llparsing\ll.c(406): warning C4553: '==': 의미 없는 연산자입니다. '='을(를) 사용하려고 했습니까?
+c:\users\ku254\onedrive\문서\visual studio 2017\projects\llparsing\llparsing\ll.c(383): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\ku254\onedrive\문서\visual studio 2017\projects\llparsing\llparsing\ll.c(415): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\ku254\onedrive\문서\visual studio 2017\projects\llparsing\llparsing\ll.c(488): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\ku254\onedrive\문서\visual studio 2017\projects\llparsing\llparsing\ll.c(675): warning C4087: 'getchar': 'void' 매개 변수 목록을 사용하여 선언되었습니다.
+  LLparsing.vcxproj -> C:\Users\ku254\onedrive\문서\visual studio 2017\Projects\LLparsing\Debug\LLparsing.exe
+  LLparsing.vcxproj -> C:\Users\ku254\onedrive\문서\visual studio 2017\Projects\LLparsing\Debug\LLparsing.pdb (Partial PDB)
